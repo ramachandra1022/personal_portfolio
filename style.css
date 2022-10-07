@@ -3,6 +3,12 @@
     background-color: black;
     color: white;
 }
+.navbar-brand{
+color: white;
+}
+.navbar-nav li a{
+  color: white;
+  }
 /* hero background image */
 .bgimage {
     height:100vh;
